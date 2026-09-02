@@ -39,7 +39,6 @@ Full CAD is complete and released.
 - **STL** file for the entire arm.
 - BOM
 
-<!-- ![CAD render](docs/images/cad_render.png) -->
 
 *TODO: print settings, material*
 
@@ -77,7 +76,6 @@ The robot description lives in a separate repository:
 
 **[6DOF-URDF](https://github.com/wang-eric-c/6DOF-URDF)**
 
-<!-- Expand once populated: meshes, joint limits, RViz/Gazebo launch, install steps -->
 
 
 ---
