@@ -20,6 +20,10 @@ A 6 degree-of-freedom robotic arm — mechanical design, custom CAN bus driver e
 
 ---
 
+![Arm](docs/images/IMG_6994.jpeg)
+
+![Arm CAD](docs/images/Screenshot%202026-09-02%20130007.png)
+
 ## Demos
 
 Short clips from prototyping. These are **modular, single-joint movements** recorded during bring-up.
